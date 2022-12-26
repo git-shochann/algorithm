@@ -1,6 +1,6 @@
 package main
 
-// P165 確認問題1
+// 基本情報 P165 確認問題1
 
 import "fmt"
 
